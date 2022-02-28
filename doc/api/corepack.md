@@ -124,3 +124,4 @@ install. To avoid this problem, consider one of the following options:
 [supported binaries]: #supported-package-managers
 [supported package manager]: #supported-package-managers
 [various flags]: https://github.com/nodejs/corepack#utility-commands
+
